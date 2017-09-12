@@ -1,0 +1,60 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    font-size: 24px;
+}
+nav a:hover{
+    color: gold;
+    font-size: 30px;
+}
+div{
+    text-align: center;
+}
+#overview{
+    padding: 25px 100px 25px 250px;
+    text-align: justify;
+    font-size: 24px;
+}
+#courses{
+    padding: 25px 25px 25px 25px;
+    text-align: left;
+    font-size: 24px;
+}
+#courses_header{
+    background-color: #008080;
+    text-align: center;
+    font-size: 24px;
+    color: #FFA500;
+}
+.courses_content{
+    background-color: #A020F0;
+    text-align: left;
+    font-size: 20px;
+    color: #FFE600;
+}
+a{
+    color: gold;
+    text-decoration: none;
+}
+#nameOfSite{
+    font-size: 36px;
+    color: white;
+    text-align: center;
+}
+figure{
+    border-radius: 25px;
+}
+svg{
+    float: right;
+    clear: left;
+}
+img:hover{
+    opacity: .5;
+    outline-style: inset;
+}
