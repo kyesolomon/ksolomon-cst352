@@ -1,0 +1,401 @@
+[18-Sep-2017 22:36:31 UTC] PHP Warning:  Missing argument 1 for displayHouse(), called in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php on line 26 and defined in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 3
+[18-Sep-2017 22:36:31 UTC] PHP Stack trace:
+[18-Sep-2017 22:36:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[18-Sep-2017 22:36:31 UTC] PHP   2. displayHouse() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:26
+[18-Sep-2017 22:36:37 UTC] PHP Warning:  Missing argument 1 for displayHouse(), called in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php on line 26 and defined in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 3
+[18-Sep-2017 22:36:37 UTC] PHP Stack trace:
+[18-Sep-2017 22:36:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[18-Sep-2017 22:36:37 UTC] PHP   2. displayHouse() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:26
+[18-Sep-2017 22:36:40 UTC] PHP Warning:  Missing argument 1 for displayHouse(), called in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php on line 26 and defined in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 3
+[18-Sep-2017 22:36:40 UTC] PHP Stack trace:
+[18-Sep-2017 22:36:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[18-Sep-2017 22:36:40 UTC] PHP   2. displayHouse() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:26
+[18-Sep-2017 22:36:41 UTC] PHP Warning:  Missing argument 1 for displayHouse(), called in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php on line 26 and defined in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 3
+[18-Sep-2017 22:36:41 UTC] PHP Stack trace:
+[18-Sep-2017 22:36:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[18-Sep-2017 22:36:41 UTC] PHP   2. displayHouse() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:26
+[18-Sep-2017 23:06:11 UTC] PHP Warning:  Missing argument 1 for displayHouse(), called in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php on line 3 and defined in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 3
+[18-Sep-2017 23:06:11 UTC] PHP Stack trace:
+[18-Sep-2017 23:06:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[18-Sep-2017 23:06:11 UTC] PHP   2. displayHouse() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:3
+[18-Sep-2017 23:06:15 UTC] PHP Warning:  Missing argument 1 for displayHouse(), called in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php on line 3 and defined in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 3
+[18-Sep-2017 23:06:15 UTC] PHP Stack trace:
+[18-Sep-2017 23:06:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[18-Sep-2017 23:06:15 UTC] PHP   2. displayHouse() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:3
+[18-Sep-2017 23:06:18 UTC] PHP Warning:  Missing argument 1 for displayHouse(), called in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php on line 3 and defined in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 3
+[18-Sep-2017 23:06:18 UTC] PHP Stack trace:
+[18-Sep-2017 23:06:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[18-Sep-2017 23:06:18 UTC] PHP   2. displayHouse() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:3
+[18-Sep-2017 23:06:55 UTC] PHP Warning:  Missing argument 1 for displayHouse(), called in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php on line 30 and defined in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 3
+[18-Sep-2017 23:06:55 UTC] PHP Stack trace:
+[18-Sep-2017 23:06:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[18-Sep-2017 23:06:55 UTC] PHP   2. displayHouse() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:30
+[18-Sep-2017 23:07:10 UTC] PHP Warning:  Missing argument 1 for displayHouse(), called in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php on line 30 and defined in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 3
+[18-Sep-2017 23:07:10 UTC] PHP Stack trace:
+[18-Sep-2017 23:07:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[18-Sep-2017 23:07:10 UTC] PHP   2. displayHouse() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:30
+[18-Sep-2017 23:14:59 UTC] PHP Warning:  Missing argument 1 for displayHouse(), called in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php on line 30 and defined in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 3
+[18-Sep-2017 23:14:59 UTC] PHP Stack trace:
+[18-Sep-2017 23:14:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[18-Sep-2017 23:14:59 UTC] PHP   2. displayHouse() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:30
+[18-Sep-2017 23:15:02 UTC] PHP Warning:  Missing argument 1 for displayHouse(), called in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php on line 30 and defined in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 3
+[18-Sep-2017 23:15:02 UTC] PHP Stack trace:
+[18-Sep-2017 23:15:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[18-Sep-2017 23:15:02 UTC] PHP   2. displayHouse() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:30
+[18-Sep-2017 23:15:04 UTC] PHP Warning:  Missing argument 1 for displayHouse(), called in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php on line 30 and defined in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 3
+[18-Sep-2017 23:15:04 UTC] PHP Stack trace:
+[18-Sep-2017 23:15:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[18-Sep-2017 23:15:04 UTC] PHP   2. displayHouse() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:30
+[18-Sep-2017 23:15:07 UTC] PHP Warning:  Missing argument 1 for displayHouse(), called in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php on line 30 and defined in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 3
+[18-Sep-2017 23:15:07 UTC] PHP Stack trace:
+[18-Sep-2017 23:15:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[18-Sep-2017 23:15:07 UTC] PHP   2. displayHouse() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:30
+[18-Sep-2017 23:15:35 UTC] PHP Warning:  Missing argument 1 for displayHouse(), called in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php on line 30 and defined in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 3
+[18-Sep-2017 23:15:35 UTC] PHP Stack trace:
+[18-Sep-2017 23:15:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[18-Sep-2017 23:15:35 UTC] PHP   2. displayHouse() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:30
+[18-Sep-2017 23:15:35 UTC] PHP Warning:  Missing argument 2 for displayHouse(), called in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php on line 30 and defined in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 3
+[18-Sep-2017 23:15:35 UTC] PHP Stack trace:
+[18-Sep-2017 23:15:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[18-Sep-2017 23:15:35 UTC] PHP   2. displayHouse() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:30
+[18-Sep-2017 23:16:31 UTC] PHP Warning:  Missing argument 1 for displayHouse(), called in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php on line 30 and defined in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 3
+[18-Sep-2017 23:16:31 UTC] PHP Stack trace:
+[18-Sep-2017 23:16:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[18-Sep-2017 23:16:31 UTC] PHP   2. displayHouse() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:30
+[18-Sep-2017 23:16:31 UTC] PHP Warning:  Missing argument 2 for displayHouse(), called in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php on line 30 and defined in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 3
+[18-Sep-2017 23:16:31 UTC] PHP Stack trace:
+[18-Sep-2017 23:16:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[18-Sep-2017 23:16:31 UTC] PHP   2. displayHouse() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:30
+[18-Sep-2017 23:44:10 UTC] PHP Warning:  Missing argument 2 for displayHouse(), called in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php on line 30 and defined in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 3
+[18-Sep-2017 23:44:10 UTC] PHP Stack trace:
+[18-Sep-2017 23:44:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[18-Sep-2017 23:44:10 UTC] PHP   2. displayHouse() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:30
+[18-Sep-2017 23:53:41 UTC] PHP Warning:  Missing argument 2 for displayHouse(), called in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php on line 30 and defined in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 3
+[18-Sep-2017 23:53:41 UTC] PHP Stack trace:
+[18-Sep-2017 23:53:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[18-Sep-2017 23:53:41 UTC] PHP   2. displayHouse() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:30
+[19-Sep-2017 03:53:19 UTC] PHP Warning:  Missing argument 2 for displayHouse(), called in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php on line 30 and defined in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 3
+[19-Sep-2017 03:53:19 UTC] PHP Stack trace:
+[19-Sep-2017 03:53:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 03:53:19 UTC] PHP   2. displayHouse() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:30
+[19-Sep-2017 03:53:26 UTC] PHP Warning:  Missing argument 2 for displayHouse(), called in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php on line 30 and defined in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 3
+[19-Sep-2017 03:53:26 UTC] PHP Stack trace:
+[19-Sep-2017 03:53:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 03:53:26 UTC] PHP   2. displayHouse() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:30
+[19-Sep-2017 03:53:28 UTC] PHP Warning:  Missing argument 2 for displayHouse(), called in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php on line 30 and defined in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 3
+[19-Sep-2017 03:53:28 UTC] PHP Stack trace:
+[19-Sep-2017 03:53:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 03:53:28 UTC] PHP   2. displayHouse() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:30
+[19-Sep-2017 03:53:30 UTC] PHP Warning:  Missing argument 2 for displayHouse(), called in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php on line 30 and defined in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 3
+[19-Sep-2017 03:53:30 UTC] PHP Stack trace:
+[19-Sep-2017 03:53:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 03:53:30 UTC] PHP   2. displayHouse() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:30
+[19-Sep-2017 03:53:33 UTC] PHP Warning:  Missing argument 2 for displayHouse(), called in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php on line 30 and defined in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 3
+[19-Sep-2017 03:53:33 UTC] PHP Stack trace:
+[19-Sep-2017 03:53:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 03:53:33 UTC] PHP   2. displayHouse() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:30
+[19-Sep-2017 05:51:02 UTC] PHP Warning:  Missing argument 3 for displayMembers(), called in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 26 and defined in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 17
+[19-Sep-2017 05:51:02 UTC] PHP Stack trace:
+[19-Sep-2017 05:51:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 05:51:02 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 05:51:02 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:26
+[19-Sep-2017 06:01:51 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 19
+[19-Sep-2017 06:01:51 UTC] PHP Stack trace:
+[19-Sep-2017 06:01:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 06:01:51 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 06:01:51 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:35
+[19-Sep-2017 06:06:35 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 19
+[19-Sep-2017 06:06:35 UTC] PHP Stack trace:
+[19-Sep-2017 06:06:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 06:06:35 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 06:06:35 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:35
+[19-Sep-2017 06:07:51 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 19
+[19-Sep-2017 06:07:51 UTC] PHP Stack trace:
+[19-Sep-2017 06:07:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 06:07:51 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 06:07:51 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:35
+[19-Sep-2017 06:07:54 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 19
+[19-Sep-2017 06:07:54 UTC] PHP Stack trace:
+[19-Sep-2017 06:07:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 06:07:54 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 06:07:54 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:35
+[19-Sep-2017 06:07:55 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 19
+[19-Sep-2017 06:07:55 UTC] PHP Stack trace:
+[19-Sep-2017 06:07:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 06:07:55 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 06:07:55 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:35
+[19-Sep-2017 06:07:56 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 19
+[19-Sep-2017 06:07:56 UTC] PHP Stack trace:
+[19-Sep-2017 06:07:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 06:07:56 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 06:07:56 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:35
+[19-Sep-2017 06:07:57 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 19
+[19-Sep-2017 06:07:57 UTC] PHP Stack trace:
+[19-Sep-2017 06:07:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 06:07:57 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 06:07:57 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:35
+[19-Sep-2017 06:07:57 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 19
+[19-Sep-2017 06:07:57 UTC] PHP Stack trace:
+[19-Sep-2017 06:07:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 06:07:57 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 06:07:57 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:35
+[19-Sep-2017 06:07:58 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 19
+[19-Sep-2017 06:07:58 UTC] PHP Stack trace:
+[19-Sep-2017 06:07:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 06:07:58 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 06:07:58 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:35
+[19-Sep-2017 06:07:59 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 19
+[19-Sep-2017 06:07:59 UTC] PHP Stack trace:
+[19-Sep-2017 06:07:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 06:07:59 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 06:07:59 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:35
+[19-Sep-2017 06:07:59 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 19
+[19-Sep-2017 06:07:59 UTC] PHP Stack trace:
+[19-Sep-2017 06:07:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 06:07:59 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 06:07:59 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:35
+[19-Sep-2017 06:08:00 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 19
+[19-Sep-2017 06:08:00 UTC] PHP Stack trace:
+[19-Sep-2017 06:08:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 06:08:00 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 06:08:00 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:35
+[19-Sep-2017 06:08:00 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 19
+[19-Sep-2017 06:08:00 UTC] PHP Stack trace:
+[19-Sep-2017 06:08:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 06:08:00 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 06:08:00 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:35
+[19-Sep-2017 06:08:01 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 19
+[19-Sep-2017 06:08:01 UTC] PHP Stack trace:
+[19-Sep-2017 06:08:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 06:08:01 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 06:08:01 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:35
+[19-Sep-2017 06:08:01 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 19
+[19-Sep-2017 06:08:01 UTC] PHP Stack trace:
+[19-Sep-2017 06:08:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 06:08:01 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 06:08:01 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:35
+[19-Sep-2017 06:08:02 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 19
+[19-Sep-2017 06:08:02 UTC] PHP Stack trace:
+[19-Sep-2017 06:08:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 06:08:02 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 06:08:02 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:35
+[19-Sep-2017 06:08:51 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 19
+[19-Sep-2017 06:08:51 UTC] PHP Stack trace:
+[19-Sep-2017 06:08:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 06:08:51 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 06:08:51 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:35
+[19-Sep-2017 06:09:29 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 19
+[19-Sep-2017 06:09:29 UTC] PHP Stack trace:
+[19-Sep-2017 06:09:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 06:09:29 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 06:09:29 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:35
+[19-Sep-2017 06:09:32 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 19
+[19-Sep-2017 06:09:32 UTC] PHP Stack trace:
+[19-Sep-2017 06:09:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 06:09:32 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 06:09:32 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:35
+[19-Sep-2017 07:19:56 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 20
+[19-Sep-2017 07:19:56 UTC] PHP Stack trace:
+[19-Sep-2017 07:19:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 07:19:56 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 07:19:56 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 07:20:25 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 20
+[19-Sep-2017 07:20:25 UTC] PHP Stack trace:
+[19-Sep-2017 07:20:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 07:20:25 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 07:20:25 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 07:21:13 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 20
+[19-Sep-2017 07:21:13 UTC] PHP Stack trace:
+[19-Sep-2017 07:21:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 07:21:13 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 07:21:13 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 07:21:17 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 20
+[19-Sep-2017 07:21:17 UTC] PHP Stack trace:
+[19-Sep-2017 07:21:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 07:21:17 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 07:21:17 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 07:21:20 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 20
+[19-Sep-2017 07:21:20 UTC] PHP Stack trace:
+[19-Sep-2017 07:21:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 07:21:20 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 07:21:20 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 07:22:47 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 20
+[19-Sep-2017 07:22:47 UTC] PHP Stack trace:
+[19-Sep-2017 07:22:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 07:22:47 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 07:22:47 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 07:22:51 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 20
+[19-Sep-2017 07:22:51 UTC] PHP Stack trace:
+[19-Sep-2017 07:22:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 07:22:51 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 07:22:51 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 07:22:52 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 20
+[19-Sep-2017 07:22:52 UTC] PHP Stack trace:
+[19-Sep-2017 07:22:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 07:22:52 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 07:22:52 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 07:22:53 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 20
+[19-Sep-2017 07:22:53 UTC] PHP Stack trace:
+[19-Sep-2017 07:22:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 07:22:53 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 07:22:53 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 07:22:54 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 20
+[19-Sep-2017 07:22:54 UTC] PHP Stack trace:
+[19-Sep-2017 07:22:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 07:22:54 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 07:22:54 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 07:22:55 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 20
+[19-Sep-2017 07:22:55 UTC] PHP Stack trace:
+[19-Sep-2017 07:22:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 07:22:55 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 07:22:55 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 07:22:55 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 20
+[19-Sep-2017 07:22:55 UTC] PHP Stack trace:
+[19-Sep-2017 07:22:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 07:22:55 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 07:22:55 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 07:22:56 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 20
+[19-Sep-2017 07:22:56 UTC] PHP Stack trace:
+[19-Sep-2017 07:22:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 07:22:56 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 07:22:56 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 07:22:57 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 20
+[19-Sep-2017 07:22:57 UTC] PHP Stack trace:
+[19-Sep-2017 07:22:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 07:22:57 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 07:22:57 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 07:22:57 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 20
+[19-Sep-2017 07:22:57 UTC] PHP Stack trace:
+[19-Sep-2017 07:22:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 07:22:57 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 07:22:57 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 07:22:58 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 20
+[19-Sep-2017 07:22:58 UTC] PHP Stack trace:
+[19-Sep-2017 07:22:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 07:22:58 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 07:22:58 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 07:22:58 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 20
+[19-Sep-2017 07:22:58 UTC] PHP Stack trace:
+[19-Sep-2017 07:22:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 07:22:58 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 07:22:58 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 07:22:59 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 20
+[19-Sep-2017 07:22:59 UTC] PHP Stack trace:
+[19-Sep-2017 07:22:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 07:22:59 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 07:22:59 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 07:22:59 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 20
+[19-Sep-2017 07:22:59 UTC] PHP Stack trace:
+[19-Sep-2017 07:22:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 07:22:59 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 07:22:59 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 07:23:00 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 20
+[19-Sep-2017 07:23:00 UTC] PHP Stack trace:
+[19-Sep-2017 07:23:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 07:23:00 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 07:23:00 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 07:23:01 UTC] PHP Fatal error:  [] operator not supported for strings in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 20
+[19-Sep-2017 07:23:01 UTC] PHP Stack trace:
+[19-Sep-2017 07:23:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 07:23:01 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 07:23:01 UTC] PHP   3. displayMembers() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 07:58:55 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 36
+[19-Sep-2017 07:58:55 UTC] PHP Stack trace:
+[19-Sep-2017 07:58:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 07:58:55 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 07:58:55 UTC] PHP   3. array_unique() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 07:58:55 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 36
+[19-Sep-2017 07:58:55 UTC] PHP Stack trace:
+[19-Sep-2017 07:58:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 07:58:55 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 07:58:55 UTC] PHP   3. array_unique() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 07:58:55 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 36
+[19-Sep-2017 07:58:55 UTC] PHP Stack trace:
+[19-Sep-2017 07:58:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 07:58:55 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 07:58:55 UTC] PHP   3. array_unique() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 07:58:55 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 36
+[19-Sep-2017 07:58:55 UTC] PHP Stack trace:
+[19-Sep-2017 07:58:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 07:58:55 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 07:58:55 UTC] PHP   3. array_unique() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 07:59:09 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 36
+[19-Sep-2017 07:59:09 UTC] PHP Stack trace:
+[19-Sep-2017 07:59:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 07:59:09 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 07:59:09 UTC] PHP   3. array_unique() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 07:59:09 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 36
+[19-Sep-2017 07:59:09 UTC] PHP Stack trace:
+[19-Sep-2017 07:59:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 07:59:09 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 07:59:09 UTC] PHP   3. array_unique() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 07:59:09 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 36
+[19-Sep-2017 07:59:09 UTC] PHP Stack trace:
+[19-Sep-2017 07:59:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 07:59:09 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 07:59:09 UTC] PHP   3. array_unique() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 07:59:09 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 36
+[19-Sep-2017 07:59:09 UTC] PHP Stack trace:
+[19-Sep-2017 07:59:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 07:59:09 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 07:59:09 UTC] PHP   3. array_unique() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 07:59:10 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 36
+[19-Sep-2017 07:59:10 UTC] PHP Stack trace:
+[19-Sep-2017 07:59:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 07:59:10 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 07:59:10 UTC] PHP   3. array_unique() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 07:59:10 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 36
+[19-Sep-2017 07:59:10 UTC] PHP Stack trace:
+[19-Sep-2017 07:59:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 07:59:10 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 07:59:10 UTC] PHP   3. array_unique() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 07:59:10 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 36
+[19-Sep-2017 07:59:10 UTC] PHP Stack trace:
+[19-Sep-2017 07:59:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 07:59:10 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 07:59:10 UTC] PHP   3. array_unique() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 07:59:10 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 36
+[19-Sep-2017 07:59:10 UTC] PHP Stack trace:
+[19-Sep-2017 07:59:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 07:59:10 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 07:59:10 UTC] PHP   3. array_unique() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 07:59:12 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 36
+[19-Sep-2017 07:59:12 UTC] PHP Stack trace:
+[19-Sep-2017 07:59:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 07:59:12 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 07:59:12 UTC] PHP   3. array_unique() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 07:59:12 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 36
+[19-Sep-2017 07:59:12 UTC] PHP Stack trace:
+[19-Sep-2017 07:59:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 07:59:12 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 07:59:12 UTC] PHP   3. array_unique() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 07:59:12 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 36
+[19-Sep-2017 07:59:12 UTC] PHP Stack trace:
+[19-Sep-2017 07:59:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 07:59:12 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 07:59:12 UTC] PHP   3. array_unique() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 07:59:12 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 36
+[19-Sep-2017 07:59:12 UTC] PHP Stack trace:
+[19-Sep-2017 07:59:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 07:59:12 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 07:59:12 UTC] PHP   3. array_unique() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 08:04:44 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 36
+[19-Sep-2017 08:04:44 UTC] PHP Stack trace:
+[19-Sep-2017 08:04:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 08:04:44 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 08:04:44 UTC] PHP   3. array_unique() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 08:04:44 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 36
+[19-Sep-2017 08:04:44 UTC] PHP Stack trace:
+[19-Sep-2017 08:04:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 08:04:44 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 08:04:44 UTC] PHP   3. array_unique() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 08:04:44 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 36
+[19-Sep-2017 08:04:44 UTC] PHP Stack trace:
+[19-Sep-2017 08:04:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 08:04:44 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 08:04:44 UTC] PHP   3. array_unique() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
+[19-Sep-2017 08:04:44 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php on line 36
+[19-Sep-2017 08:04:44 UTC] PHP Stack trace:
+[19-Sep-2017 08:04:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:0
+[19-Sep-2017 08:04:44 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/hw2.php:28
+[19-Sep-2017 08:04:44 UTC] PHP   3. array_unique() /home/ubuntu/workspace/ksolomon-cst352/hw/hw2/func.php:36
