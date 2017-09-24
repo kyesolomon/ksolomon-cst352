@@ -338,3 +338,8 @@
 [10-Sep-2017 17:13:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/labs/777/index.php:0
 [10-Sep-2017 17:13:09 UTC] PHP   2. play() /home/ubuntu/workspace/ksolomon-cst352/labs/777/index.php:17
 [10-Sep-2017 17:13:09 UTC] PHP   3. displaySymbol() /home/ubuntu/workspace/ksolomon-cst352/labs/777/inc/functions.php:46
+[24-Sep-2017 16:12:00 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /home/ubuntu/workspace/ksolomon-cst352/labs/lab3/lab3.php on line 21
+[24-Sep-2017 16:12:18 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /home/ubuntu/workspace/ksolomon-cst352/labs/lab3/lab3.php on line 21
+[24-Sep-2017 16:12:19 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /home/ubuntu/workspace/ksolomon-cst352/labs/lab3/lab3.php on line 21
+[24-Sep-2017 16:17:19 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /home/ubuntu/workspace/ksolomon-cst352/labs/lab3/lab3.php on line 7
+[24-Sep-2017 16:17:20 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /home/ubuntu/workspace/ksolomon-cst352/labs/lab3/lab3.php on line 7
