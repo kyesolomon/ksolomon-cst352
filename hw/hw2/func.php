@@ -1,18 +1,18 @@
 <?php
     function displayHouse($house){
         $sort = rand(0,3);
-        switch($house){
-        case 0: $sort= "gryffindor";
+        switch($sort){
+        case 0: $house= "gryffindor";
             break;
-        case 1: $sort="hufflepuff";
+        case 1: $house="hufflepuff";
             break;
-        case 2: $sort="ravenclaw";
+        case 2: $house="ravenclaw";
             break;
-        case 3: $sort="slytherin";
+        case 3: $house="slytherin";
             break;
         }
-        echo "<img src='img/$sort.jpg' alt='$sort' title='". ucfirst($sort) ."' width='500'>";
-        echo "<h2>Welcome to $sort!</h2>";
+        echo "<img src='img/$house.jpg' alt='$house' title='". ucfirst($house) ."' width='500'>";
+        echo "<h2>Welcome to $house!</h2>";
     }
     function displayMembers(){
         $sort = rand(0,3);
