@@ -4,16 +4,17 @@
     // API call goes here
     if(isset($_GET['keyword'])){
         include 'slider/api/pixabayAPI.php';
+        $keyword = $_GET['keyword'];
         $imageURLs = getImageURLs($_GET['keyword']);
         $backgroundImage = $imageURLs[array_rand($imageURLs)];
     }
 ?>
+<!DOCTYPE html>
 <html>
     <head>
         <title>Image Carousel</title>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-        <script type="text/css" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"></script>
-        <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        <meta charset="utf-8">
+        <link href="text/css" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" />
         <style>
             @import url("slider/css/styles.css");
             body{
@@ -43,21 +44,18 @@
             <!-- Wrapper for images -->
             <div class="carousel-inner" role="listbox">
                 <?php
-                    for($i=0; $i<5; $i++){
+                    for($i=0; $i<7; $i++){
                         do{
                             $randomIndex = rand(0, count($imageURLs));
                         } while (!isset($imageURLs[$randomIndex]));
-                    
-                        echo "<img src='" . $imageURLs[$randomIndex] . "' width='200' >";
+                        echo '<div class= "item ';
+                        echo ($i==0)?"active": "";
+                        echo '">';
+                        echo '<img src"' . $imageURLs[$randomIndex] . '">';
+                        echo '</div>';
                         unset($imageURLs[$randomIndex]);
+                    
                     }
-                    echo '<div class= "item ';
-                    echo ($i==0)?"active": "";
-                    echo '">';
-                    echo '<img src"' . $imageURLs[$randomIndex] . '">';
-                    echo '</div>';
-                    unset($imageURLs[$randomIndex]);
-            }
                 ?>
             </div>
             <!-- Controls here -->
@@ -70,11 +68,28 @@
                 <span class="sr-only">Next</span>
              </a>
         </div>
+        <?php
+            }
+        ?>
         <!-- html form goes here -->
+        <br>
         <form>
-            <input type="text" name="keyword" placeholder="Keyword">
+            <input type="text" name="keyword" placeholder="keyword" value="<?=$_GET['keyword']?>"/>
+            <input type="radio" id="lhorizontal" name="layout" value="horizontal">
+            <label for="Horizontal"></label><label for="lhorizontal"> Horizontal </label>
+            <input type = "radio" id="lvertical" name="layout" value="vertical">
+            <label for="Vertical"></label><label for="lvertical"> Vertical </label>
+            <select name = "category">
+                <option value= "">Select One</option>
+                <option value= "ocean">Sea</option>
+                <option>Forest</option>
+                <option>Mountain</option>
+                <option>Snow</option>
+            </select>
             <input type="submit" value="Submit" / >
         </form>
         <br /><br />
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     </body>
 </html>
