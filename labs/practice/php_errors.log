@@ -1,0 +1,28 @@
+[26-Sep-2017 18:06:28 UTC] PHP Warning:  Missing argument 1 for addYears(), called in /home/ubuntu/workspace/ksolomon-cst352/labs/practice/zodiac/index.php on line 26 and defined in /home/ubuntu/workspace/ksolomon-cst352/labs/practice/zodiac/index.php on line 19
+[26-Sep-2017 18:06:28 UTC] PHP Stack trace:
+[26-Sep-2017 18:06:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/labs/practice/zodiac/index.php:0
+[26-Sep-2017 18:06:28 UTC] PHP   2. addYears() /home/ubuntu/workspace/ksolomon-cst352/labs/practice/zodiac/index.php:26
+[26-Sep-2017 18:07:17 UTC] PHP Warning:  Missing argument 1 for addYears(), called in /home/ubuntu/workspace/ksolomon-cst352/labs/practice/zodiac/index.php on line 27 and defined in /home/ubuntu/workspace/ksolomon-cst352/labs/practice/zodiac/index.php on line 19
+[26-Sep-2017 18:07:17 UTC] PHP Stack trace:
+[26-Sep-2017 18:07:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/labs/practice/zodiac/index.php:0
+[26-Sep-2017 18:07:17 UTC] PHP   2. addYears() /home/ubuntu/workspace/ksolomon-cst352/labs/practice/zodiac/index.php:27
+[26-Sep-2017 18:14:16 UTC] PHP Warning:  Missing argument 1 for addYears(), called in /home/ubuntu/workspace/ksolomon-cst352/labs/practice/zodiac/index.php on line 27 and defined in /home/ubuntu/workspace/ksolomon-cst352/labs/practice/zodiac/index.php on line 19
+[26-Sep-2017 18:14:16 UTC] PHP Stack trace:
+[26-Sep-2017 18:14:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/labs/practice/zodiac/index.php:0
+[26-Sep-2017 18:14:16 UTC] PHP   2. addYears() /home/ubuntu/workspace/ksolomon-cst352/labs/practice/zodiac/index.php:27
+[26-Sep-2017 18:23:50 UTC] PHP Warning:  Missing argument 1 for addYears(), called in /home/ubuntu/workspace/ksolomon-cst352/labs/practice/zodiac/index.php on line 27 and defined in /home/ubuntu/workspace/ksolomon-cst352/labs/practice/zodiac/index.php on line 19
+[26-Sep-2017 18:23:50 UTC] PHP Stack trace:
+[26-Sep-2017 18:23:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/labs/practice/zodiac/index.php:0
+[26-Sep-2017 18:23:50 UTC] PHP   2. addYears() /home/ubuntu/workspace/ksolomon-cst352/labs/practice/zodiac/index.php:27
+[26-Sep-2017 18:23:50 UTC] PHP Warning:  Missing argument 1 for displayImage(), called in /home/ubuntu/workspace/ksolomon-cst352/labs/practice/zodiac/index.php on line 34 and defined in /home/ubuntu/workspace/ksolomon-cst352/labs/practice/zodiac/index.php on line 29
+[26-Sep-2017 18:23:50 UTC] PHP Stack trace:
+[26-Sep-2017 18:23:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/labs/practice/zodiac/index.php:0
+[26-Sep-2017 18:23:50 UTC] PHP   2. displayImage() /home/ubuntu/workspace/ksolomon-cst352/labs/practice/zodiac/index.php:34
+[26-Sep-2017 18:24:22 UTC] PHP Warning:  Missing argument 1 for addYears(), called in /home/ubuntu/workspace/ksolomon-cst352/labs/practice/zodiac/index.php on line 27 and defined in /home/ubuntu/workspace/ksolomon-cst352/labs/practice/zodiac/index.php on line 19
+[26-Sep-2017 18:24:22 UTC] PHP Stack trace:
+[26-Sep-2017 18:24:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/labs/practice/zodiac/index.php:0
+[26-Sep-2017 18:24:22 UTC] PHP   2. addYears() /home/ubuntu/workspace/ksolomon-cst352/labs/practice/zodiac/index.php:27
+[26-Sep-2017 18:24:22 UTC] PHP Warning:  Missing argument 1 for displayImage(), called in /home/ubuntu/workspace/ksolomon-cst352/labs/practice/zodiac/index.php on line 34 and defined in /home/ubuntu/workspace/ksolomon-cst352/labs/practice/zodiac/index.php on line 29
+[26-Sep-2017 18:24:22 UTC] PHP Stack trace:
+[26-Sep-2017 18:24:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/labs/practice/zodiac/index.php:0
+[26-Sep-2017 18:24:22 UTC] PHP   2. displayImage() /home/ubuntu/workspace/ksolomon-cst352/labs/practice/zodiac/index.php:34
