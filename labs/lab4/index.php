@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <?php
     $backgroundImage="slider/img/sea.jpg";
     
@@ -95,6 +96,8 @@
     </body>
 </html>
 =======
+=======
+>>>>>>> 9f41f267c371ed4ddf99184fdd15fd249850d8e9
 <?php
     $backgroundImage="slider/img/sea.jpg";
     
@@ -190,4 +193,7 @@
         <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     </body>
 </html>
+<<<<<<< HEAD
+>>>>>>> 9f41f267c371ed4ddf99184fdd15fd249850d8e9
+=======
 >>>>>>> 9f41f267c371ed4ddf99184fdd15fd249850d8e9
