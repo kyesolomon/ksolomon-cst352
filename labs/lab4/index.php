@@ -1,6 +1,6 @@
 <?php
 include 'slider/api/pixabayAPI.php';
-$backgroundImg = "img/sea.jpg";
+$backgroundImg = "slider/img/sea.jpg";
 // function getImages() {
 if ( isset($_GET['keyword']) ) {
     
