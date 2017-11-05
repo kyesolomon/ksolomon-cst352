@@ -13,12 +13,24 @@ $password = sha1($_POST['password']);
 
 //echo $password;
 
+
+//Following SQL works but it allows SQL Injection!!
+// $sql = "SELECT *
+//         FROM q_admin
+//         WHERE username = '$username' 
+//         AND   password = '$password'";
+        
 $sql = "SELECT *
         FROM q_admin
-        WHERE username = '$username'
-        AND   password = '$password'";
+        WHERE username = :username 
+        AND   password = :password";   
+
+$namedParameters  = array();
+$namedParameters[':username']  = $username;
+$namedParameters[':password']  = $password;
+
 $stmt = $conn->prepare($sql);
-$stmt->execute();
+$stmt->execute($namedParameters);
 $record = $stmt->fetch(PDO::FETCH_ASSOC);
 
 //print_r($record);

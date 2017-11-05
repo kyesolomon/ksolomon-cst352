@@ -1,9 +1,19 @@
 <?php
 
+session_start();
+
+if (!isset($_SESSION['username'])) { //checks whether admin has already logged in
+    
+    header("Location: index.php");
+    exit;
+    
+}
+
+include '../../dbConnection.php';
+$conn = getDatabaseConnection();
 
 function getAuthorInfo() {
-    include '../../dbConnection.php';
-    $conn = getDatabaseConnection();
+    global $conn;
         
     $sql = "SELECT *
             FROM q_author
@@ -15,14 +25,38 @@ function getAuthorInfo() {
     return $record;
 }
 
+if (isset($_GET['updateForm'])) { //Admin submitted update form
+    
+    //echo "Update form was submitted!";
+    
+    $sql = "UPDATE q_author SET 
+	            firstName = :fName,
+	            lastName = :lName,
+	            gender = :gender
+            WHERE authorId = :authorId";
+    
+    $namedParameters = array();
+    $namedParameters[':fName'] = $_GET['firstName'];
+    $namedParameters[':lName'] = $_GET['lastName'];
+    $namedParameters[':gender'] = $_GET['gender'];
+    $namedParameters[':authorId'] = $_GET['authorId'];
+    $stmt = $conn->prepare($sql);
+    $stmt->execute($namedParameters);
+    echo "Record was updated!";
+
+    
+}
+
 
 if (isset($_GET['authorId'])) {
     
     $authorInfo = getAuthorInfo();  
     
-    print_r($authorInfo);
+    //print_r($authorInfo);
     
 }
+
+
 
 
 ?>
@@ -43,6 +77,9 @@ if (isset($_GET['authorId'])) {
             
             <form>
                 
+                
+                 <input type="hidden" name="authorId" value="<?=$authorInfo['authorId']?>">
+                 
                 First Name: <input type="text" name="firstName" value="<?=$authorInfo['firstName']?>" /> <br />
                 Last Name: <input type="text" name="lastName" value="<?=$authorInfo['lastName']?>"/> <br />
                 Gender: <input type="radio" name="gender" value="F"
@@ -61,6 +98,9 @@ if (isset($_GET['authorId'])) {
                             
                             <label for="genderF"></label>Female
                          <input type="radio" name="gender" value="M"
+                         
+                            <?= ($authorInfo['gender']=="M")?"checked":"" ?>
+                         
                             id="genderM"   /><label for="genderF"></label>Male <br />   
                 Birth Date: <input type="date" name="dob" value="<?=$authorInfo['dob']?>"/><br /> 
                 Death Date: <input type="date" name="dod" value="<?=$authorInfo['dod']?>"/><br /> 

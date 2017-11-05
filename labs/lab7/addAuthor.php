@@ -10,13 +10,13 @@
      $sql = "INSERT INTO q_author
             (firstName, lastName, gender, dob, dod, profession, country, picture, biography)
             VALUES 
-            (:fName, :lName, :gender, :dob, :dob, :profession, :country, :picture, :biography)";
+            (:fName, :lName, :gender, :dob, :dod, :profession, :country, :picture, :biography)";
      $np = array();
      $np[":fName"]  = $_GET['firstName'];
      $np[":lName"]  = $_GET['lastName'];
      $np[":gender"]  = $_GET['gender'];
      $np[":dob"]  = $_GET['dob'];
-     $np[":dob"]  = $_GET['dob'];
+     $np[":dod"]  = $_GET['dod'];
      $np[":profession"]  = $_GET['profession'];
      $np[":country"]  = $_GET['country'];
      $np[":picture"]  = $_GET['picture'];
@@ -54,7 +54,7 @@
                          <input type="radio" name="gender" value="M"
                             id="genderM"/><label for="genderF"></label>Male <br />   
                 Birth Date: <input type="date" name="dob"/><br /> 
-                Death Date: <input type="date" name="dob"/><br /> 
+                Death Date: <input type="date" name="dod"/><br /> 
                 Profession: <input type="text" name="profession"/><br /> 
                 Country: <select name="country">
                             <option>USA</option>
