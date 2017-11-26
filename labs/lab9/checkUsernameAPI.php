@@ -1,0 +1,12 @@
+<?php
+    include '../../dbConnection.php';
+    
+    $conn = getDatabaseConnection();
+    
+    $sql = "SELECT username
+            FROM q_login
+            WHERE username = :username";
+            
+    $stmt = $conn -> prepare ($sql);
+    $stmt -> execute( array(":username"=>$_GET['username']) );
+?>
