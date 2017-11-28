@@ -553,3 +553,22 @@ Stack trace:
 [06-Nov-2017 07:28:12 UTC] PHP Fatal error:  Call to undefined function getDatabaseConnection() in /home/ubuntu/workspace/ksolomon-cst352/labs/lab7/loginProcess.php on line 10
 [06-Nov-2017 07:28:12 UTC] PHP Stack trace:
 [06-Nov-2017 07:28:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/labs/lab7/loginProcess.php:0
+[28-Nov-2017 18:46:00 UTC] PHP Fatal error:  Call to undefined function move_uploaded_files() in /home/ubuntu/workspace/ksolomon-cst352/labs/lab10/index.php on line 8
+[28-Nov-2017 18:46:00 UTC] PHP Stack trace:
+[28-Nov-2017 18:46:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/labs/lab10/index.php:0
+[28-Nov-2017 18:49:47 UTC] PHP Warning:  move_uploaded_file(../gallery/logo1.jpg): failed to open stream: No such file or directory in /home/ubuntu/workspace/ksolomon-cst352/labs/lab10/index.php on line 8
+[28-Nov-2017 18:49:47 UTC] PHP Stack trace:
+[28-Nov-2017 18:49:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/labs/lab10/index.php:0
+[28-Nov-2017 18:49:47 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/ksolomon-cst352/labs/lab10/index.php:8
+[28-Nov-2017 18:49:47 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpqi65Sq' to '../gallery/logo1.jpg' in /home/ubuntu/workspace/ksolomon-cst352/labs/lab10/index.php on line 8
+[28-Nov-2017 18:49:47 UTC] PHP Stack trace:
+[28-Nov-2017 18:49:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/labs/lab10/index.php:0
+[28-Nov-2017 18:49:47 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/ksolomon-cst352/labs/lab10/index.php:8
+[28-Nov-2017 18:59:06 UTC] PHP Warning:  move_uploaded_file(../gallery/logo1.jpg): failed to open stream: No such file or directory in /home/ubuntu/workspace/ksolomon-cst352/labs/lab10/index.php on line 9
+[28-Nov-2017 18:59:06 UTC] PHP Stack trace:
+[28-Nov-2017 18:59:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/labs/lab10/index.php:0
+[28-Nov-2017 18:59:06 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/ksolomon-cst352/labs/lab10/index.php:9
+[28-Nov-2017 18:59:06 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phppvQhA4' to '../gallery/logo1.jpg' in /home/ubuntu/workspace/ksolomon-cst352/labs/lab10/index.php on line 9
+[28-Nov-2017 18:59:06 UTC] PHP Stack trace:
+[28-Nov-2017 18:59:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/labs/lab10/index.php:0
+[28-Nov-2017 18:59:06 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/ksolomon-cst352/labs/lab10/index.php:9
