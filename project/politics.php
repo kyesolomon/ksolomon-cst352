@@ -2,7 +2,7 @@
 include '../includes/dbConnection.php';
 $dbConn = getConnection("project");
 
-echo "Report 1: Towns with population between 50K and 80K: <br/ >";
+
 $sql = "SELECT town_name, population
 		FROM  mp_town 
 		WHERE population
