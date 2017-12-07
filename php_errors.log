@@ -23,3 +23,12 @@
 [12-Sep-2017 17:51:11 UTC] PHP Fatal error:  Call to undefined function displaySymbol() in /home/ubuntu/workspace/ksolomon-cst352/challenges/challenge2.php on line 32
 [12-Sep-2017 17:51:11 UTC] PHP Stack trace:
 [12-Sep-2017 17:51:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/challenges/challenge2.php:0
+[07-Dec-2017 18:42:23 UTC] PHP Warning:  include(../includes/dbConnection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/ksolomon-cst352/project/politics.php on line 2
+[07-Dec-2017 18:42:23 UTC] PHP Stack trace:
+[07-Dec-2017 18:42:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/project/politics.php:0
+[07-Dec-2017 18:42:23 UTC] PHP Warning:  include(): Failed opening '../includes/dbConnection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/ksolomon-cst352/project/politics.php on line 2
+[07-Dec-2017 18:42:23 UTC] PHP Stack trace:
+[07-Dec-2017 18:42:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/project/politics.php:0
+[07-Dec-2017 18:42:23 UTC] PHP Fatal error:  Call to undefined function getConnection() in /home/ubuntu/workspace/ksolomon-cst352/project/politics.php on line 3
+[07-Dec-2017 18:42:23 UTC] PHP Stack trace:
+[07-Dec-2017 18:42:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/ksolomon-cst352/project/politics.php:0
