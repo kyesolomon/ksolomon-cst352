@@ -63,7 +63,7 @@ function print_table($conn, $sql) {
 
 $conn = getDatabaseConnection();
 
-$sql = "SELECT bio.fname, bio.lName
+$sql = "SELECT bio.fname, bio.lName, bio.age, bio.picture
 		FROM  bio, common
 		WHERE bio.nameId = common.nameId AND professionId = 2
 		ORDER BY fName ASC";
