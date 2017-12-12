@@ -1,6 +1,4 @@
 <?php
-
-
 function displayImages() {
 
     if (isset($_POST['submitForm'])) { //checks whether the form has been submitted
